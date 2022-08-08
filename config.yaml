@@ -62,7 +62,7 @@ params:
   navbar:
   - title: Semantic Layer
     url: /sldt
-  - title: Registry
+  - title: Helm Chart Repository
     url: /helm-charts
   - title: Developer Resources
     url: /developer-resources

@@ -5,11 +5,7 @@ sidebarlogo: fresh-white-alt # From (static/images/logo/)
 include_footer: true # or false to display the footer
 ---
 
-The Eclipse IoT Packages™ project decided to host a Helm chart repository in order to share the
-effort of validating and publishing charts. Eclipse IoT projects are welcome to re-use that
-infrastructure to publish their charts, whether they are part of an IoT package or not. Of course
-projects can still host their own repositories and charts.
-
+The Eclipse Tractus-X™ project decided to host a Helm chart repository.
 This repository is intended to work with Helm version 2 and 3. Features which work only with Helm 3
 are labeled explicitly.
 
