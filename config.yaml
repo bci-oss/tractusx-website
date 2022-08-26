@@ -50,7 +50,7 @@ params:
     # Button text
     buttontext: Get started
     # Where the main hero button links to
-    buttonlink: "#"
+    buttonlink: "/helm-charts"
     # Hero image (from static/images/___)
     image: logos/tractusx-dark.svg
     # Footer logos (from static/images/logos/clients/___.svg)
